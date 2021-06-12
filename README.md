@@ -1,2 +1,14 @@
-# chrome-ext-github-hide-release-notifications
-Minimalist Chrome extension to hide the release notifications from the dashboard of Github
+# Hide release notifications on the dashboard of Github
+
+Minimalist Chrome extension to hide the release notifications from the dashboard of Github.
+
+This is a low effort project to fix an annoyance. This probably won't be maintained beyond the initial push to Github.
+
+## Installation
+
+ * Download this repo as a zip file and unpack it **OR** use git to fetch the repo
+ * Access chrome://extensions/
+ * Enable the `developer mode`
+ * Click on the button to load an unpacked directory of files and select the folder
+
+If the above instructions seems out of date, please refer to the official Chrome FAQ https://developer.chrome.com/docs/extensions/mv3/faq/#faq-dev-01

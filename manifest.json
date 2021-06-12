@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Github Hide Release Dashboard Notifications",
+  "description": "Hides release notification on the dashboard of Github",
+  "version": "1.0",
+  "permissions": [],
+  "homepage_url": "https://github.com/kchapelier/chrome-ext-github-hide-release-notifications",
+  "content_scripts": [
+    {
+      "matches": ["https://*.github.com/"],
+      "css": ["styles.css"]
+    }
+  ]
+}

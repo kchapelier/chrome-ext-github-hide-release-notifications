@@ -1,0 +1,10 @@
+#dashboard .release {
+  height: 5px;
+  overflow-y: hidden;
+  background-color: #FFE0E0;
+  border: none;
+}
+
+#dashboard .release > * {
+  display: none;
+}
